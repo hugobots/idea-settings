@@ -1,0 +1,27 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Expand Collapse">
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="CollapseRegion" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="CollapseRegion" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="CollapseRegion" />
+      <action id="GotoAction" />
+      <typing text-keycode="83:0;84:0;79:0;80:0;82:0;69:0">stopre</typing>
+      <shortuct text="BACK_SPACE" />
+      <shortuct text="BACK_SPACE" />
+      <typing text-keycode="32:0">&amp;#x20;</typing>
+      <shortuct text="BACK_SPACE" />
+      <shortuct text="BACK_SPACE" />
+      <typing text-keycode="82:0;32:0">r&amp;#x20;</typing>
+      <shortuct text="BACK_SPACE" />
+      <shortuct text="BACK_SPACE" />
+      <typing text-keycode="80:0;32:0;82:0;69:0;67:0;79:0">p&amp;#x20;reco</typing>
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>

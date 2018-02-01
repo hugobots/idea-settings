@@ -1,0 +1,53 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="cfg" type="Access Transformers File" />
+      <mapping ext="tfstate" type="JSON" />
+      <mapping ext="db" type="JavaFX" />
+      <mapping pattern="php-cs-fixer" type="PHP" />
+      <mapping pattern="EmailHotelOrderVendorConfirmed" type="PHP" />
+      <mapping pattern="ScheduledSmsController.php" type="PHP" />
+      <mapping pattern="double" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="property" type="PLAIN_TEXT" />
+      <mapping pattern=".npmignore" type="PLAIN_TEXT" />
+      <mapping pattern="ClassTop" type="PLAIN_TEXT" />
+      <mapping pattern="empty-file" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".erlang.cookie" type="PLAIN_TEXT" />
+      <mapping pattern="array_methods" type="PLAIN_TEXT" />
+      <mapping pattern=".config.override.ini" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
+      <mapping pattern="license" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="enabled_plugins" type="PLAIN_TEXT" />
+      <mapping pattern=".bumpversion.cfg" type="PLAIN_TEXT" />
+      <mapping pattern="BaseEntity" type="PLAIN_TEXT" />
+      <mapping pattern="some-file" type="PLAIN_TEXT" />
+      <mapping pattern="erlang_cookie" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".env--" type="PLAIN_TEXT" />
+      <mapping pattern="getters_setters" type="PLAIN_TEXT" />
+      <mapping pattern="Data" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="htaccess" type="PLAIN_TEXT" />
+      <mapping pattern="base_class" type="PLAIN_TEXT" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="mmdb" type="PLAIN_TEXT" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="tf" type="PHP files" />
+    </extensionMap>
+  </component>
+</application>

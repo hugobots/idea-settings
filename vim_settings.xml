@@ -1,0 +1,585 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Workspace/base-sdk/src/Helpers/Common.php" timestamp="1502092979403">
+        <mark key="'" line="73" column="5" />
+        <mark key="[" line="80" column="47" />
+        <mark key="]" line="81" column="7" />
+        <mark key="^" line="81" column="7" />
+        <mark key="." line="81" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/base-sdk/Makefile" timestamp="1502091668841">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/base-sdk/src/Exceptions/InvalidEndpointException.php" timestamp="1502092787831">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/Workspace/base-sdk/src/Exceptions/InvalidArgumentException.php" timestamp="1502092746512">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+      </file>
+      <file name="$USER_HOME$/Workspace/config-api/database/auth_data/users/web/altayyaronline.com.php" timestamp="1502087546056">
+        <mark key="'" line="6" column="26" />
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/config-api/database/auth_data/users/web/tajawal.bh.php" timestamp="1502087586566">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Timdo/landing/app/Http/Controllers/PageController.php" timestamp="1505571891474">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="28" column="6" />
+        <mark key="^" line="28" column="6" />
+        <mark key="." line="28" column="6" />
+      </file>
+      <file name="$USER_HOME$/Workspace/config-api/database/auth_data/users/web/tajawal.qa.php" timestamp="1502087626342">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Timdocom/myaccount-api/app/Helpers/CommonHelper.php" timestamp="1502091173981">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="31" column="46" />
+        <mark key="]" line="31" column="46" />
+        <mark key="." line="31" column="46" />
+        <mark key="^" line="31" column="26" />
+      </file>
+      <file name="$USER_HOME$/Workspace/base-sdk/src/Clients/BaseClient.php" timestamp="1502092314308">
+        <mark key="'" line="13" column="38" />
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/Workspace/config-api/database/auth_data/users/global_users.php" timestamp="1502087090401">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="50" column="20" />
+        <mark key="^" line="50" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/config-api/app/Modules/AppGroup/Models/AppGroup.php" timestamp="1502088312437">
+        <mark key="'" line="109" column="37" />
+        <mark key="[" line="109" column="37" />
+        <mark key="]" line="109" column="37" />
+        <mark key="^" line="109" column="37" />
+        <mark key="." line="109" column="37" />
+      </file>
+      <file name="$USER_HOME$/Timdo/landing/app/Models/Page.php" timestamp="1505578091915">
+        <mark key="'" line="32" column="22" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+      </file>
+      <file name="$USER_HOME$/Workspace/base-sdk/.bumpversion.cfg" timestamp="1502091637082">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/geoip-api-sdk/composer.json" timestamp="1502196639546">
+        <mark key="'" line="13" column="14" />
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/Workspace/config-api/database/auth_data/users/web/tajawal.com.kw.php" timestamp="1502087823541">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myaccount-api/.config.override.ini" timestamp="1502217928950">
+        <mark key="[" line="2" column="69" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myaccount-api/.config.ini" timestamp="1502217923233">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/ops-tool/src/Command/Nofity/MongoCollectionStats.php" timestamp="1503561061259">
+        <mark key="'" line="76" column="31" />
+        <mark key="k" line="238" column="0" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/config-api/database/auth_data/users/web/kw.almosafer.com.php" timestamp="1502087564131">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/config-api/database/auth_data/users/web/tajawal.sa.php" timestamp="1502087677180">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/extranet/client/app/account/login/login.component.html" timestamp="1503811829505">
+        <mark key="'" line="8" column="11" />
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/Workspace/config-api/database/auth_data/users/web/tajawal.com.php" timestamp="1502087606159">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" timestamp="1502191217125">
+        <mark key="'" line="87" column="24" />
+        <mark key="[" line="87" column="20" />
+        <mark key="]" line="87" column="19" />
+        <mark key="." line="87" column="19" />
+        <mark key="^" line="87" column="19" />
+      </file>
+      <file name="$USER_HOME$/Timdo/landing/app/Http/Controllers/AuthController.php" timestamp="1505558045301">
+        <mark key="'" line="26" column="29" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Timdo/landing/bootstrap/app.php" timestamp="1505558002055">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/base-sdk/src/Helpers/ConfigLoader.php" timestamp="1502093053834">
+        <mark key="'" line="21" column="30" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/devops/playbook/roles/deploy-www-api/templates/config/www-api.config.ini" timestamp="1503470079318">
+        <mark key="[" line="288" column="22" />
+        <mark key="]" line="288" column="21" />
+        <mark key="m" line="292" column="40" />
+        <mark key="." line="288" column="21" />
+        <mark key="^" line="288" column="21" />
+      </file>
+      <file name="$USER_HOME$/Timdo/myaccount-api/vendor/timdocom/nitro/src/Models/BaseMoloquent.php" timestamp="1505558098503">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="139" column="4" />
+      </file>
+      <file name="$USER_HOME$/Workspace/base-sdk/src/Config/sdk.php" timestamp="1502092415900">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="37" />
+        <mark key="^" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+      </file>
+      <file name="$USER_HOME$/Workspace/base-sdk/src/ExceptionHandler.php" timestamp="1502093198082">
+        <mark key="'" line="80" column="30" />
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/Workspace/config-api/database/auth_data/users/web/almosafer.com.php" timestamp="1502087539882">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/Timdo/landing/app/Models/User.php" timestamp="1505558245666">
+        <mark key="[" line="204" column="5" />
+      </file>
+      <file name="$USER_HOME$/Workspace/config-api/database/auth_data/users/web/tajawal.ae.php" timestamp="1502087351562">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Timdo/landing/config/database.php" timestamp="1505557903777">
+        <mark key="[" line="66" column="31" />
+        <mark key="]" line="66" column="40" />
+        <mark key="." line="66" column="40" />
+        <mark key="^" line="66" column="40" />
+      </file>
+      <file name="$USER_HOME$/Timdo/myaccount-api/config/app.php" timestamp="1505627803023">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+        <mark key="^" line="19" column="4" />
+      </file>
+      <file name="$USER_HOME$/Workspace/base-sdk/composer.json" timestamp="1502093150119">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/Workspace/base-sdk/src/Exceptions/ResponseException.php" timestamp="1502092845956">
+        <mark key="'" line="9" column="5" />
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="32" column="7" />
+        <mark key="^" line="32" column="7" />
+        <mark key="." line="32" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/timdo/www-api/app/Modules/Proxy/Controllers/WebProxyController.php" timestamp="1505631010116">
+        <mark key="[" line="81" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1505558053239">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/extranet/client/app/account/login/login.component.ts" timestamp="1503813657654">
+        <mark key="'" line="12" column="11" />
+      </file>
+      <file name="$USER_HOME$/Workspace/base-sdk/.gitignore" timestamp="1502091656353">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/Workspace/base-sdk/src/BaseClient.php" timestamp="1502092452883">
+        <mark key="'" line="1" column="26" />
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+      </file>
+      <file name="$USER_HOME$/Workspace/geoip-api-sdk/examples/location.php" timestamp="1502191152831">
+        <mark key="'" line="21" column="19" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/base-sdk/src/Exceptions/InternalErrorException.php" timestamp="1502092711948">
+        <mark key="'" line="2" column="18" />
+        <mark key="[" line="27" column="47" />
+        <mark key="]" line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/nitro/composer.json" timestamp="1502201603517">
+        <mark key="'" line="25" column="7" />
+        <mark key="j" line="25" column="7" />
+        <mark key="[" line="16" column="23" />
+        <mark key="m" line="25" column="7" />
+        <mark key="]" line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/oms/composer.json" timestamp="1502202079602">
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="30" column="48" />
+        <mark key="^" line="30" column="48" />
+        <mark key="." line="30" column="48" />
+      </file>
+      <file name="$USER_HOME$/Workspace/nitro/src/Helpers/AppCache.php" timestamp="1502199009036">
+        <mark key="'" line="4" column="15" />
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="32" column="26" />
+      </file>
+      <file name="$USER_HOME$/Workspace/config-api/database/auth_data/users/web/sa.almosafer.com.php" timestamp="1502087573506">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/base-sdk/src/Exceptions/HttpException.php" timestamp="1502092647440">
+        <mark key="'" line="2" column="18" />
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/geoip-api-sdk/config/endpoints.php" timestamp="1502189861038">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Timdo/landing/app/Models/BaseModel.php" timestamp="1505558297818">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/Workspace/nitro/src/Failable.php" timestamp="1502197650003">
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="56" column="4" filename="$USER_HOME$/Timdocom/myaccount-api/app/Helpers/CommonHelper.php" />
+      <jump line="286" column="0" filename="$USER_HOME$/Timdocom/myaccount-api/app/Helpers/CommonHelper.php" />
+      <jump line="274" column="16" filename="$USER_HOME$/Timdocom/myaccount-api/app/Helpers/CommonHelper.php" />
+      <jump line="118" column="0" filename="$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/superglobals/_superglobals.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/Timdocom/myaccount-api/app/Helpers/CommonHelper.php" />
+      <jump line="19" column="31" filename="$USER_HOME$/Workspace/base-sdk/src/Clients/BaseClient.php" />
+      <jump line="13" column="38" filename="$USER_HOME$/Workspace/base-sdk/src/Clients/BaseClient.php" />
+      <jump line="3" column="12" filename="$USER_HOME$/Workspace/base-sdk/src/BaseClient.php" />
+      <jump line="8" column="20" filename="$USER_HOME$/Workspace/base-sdk/src/BaseClient.php" />
+      <jump line="13" column="21" filename="$USER_HOME$/Workspace/base-sdk/src/BaseClient.php" />
+      <jump line="20" column="23" filename="$USER_HOME$/Workspace/base-sdk/src/BaseClient.php" />
+      <jump line="1" column="26" filename="$USER_HOME$/Workspace/base-sdk/src/BaseClient.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/base-sdk/src/Exceptions/HttpException.php" />
+      <jump line="62" column="0" filename="$USER_HOME$/Workspace/base-sdk/src/Exceptions/HttpException.php" />
+      <jump line="12" column="1" filename="$USER_HOME$/Workspace/base-sdk/src/Exceptions/HttpException.php" />
+      <jump line="2" column="18" filename="$USER_HOME$/Workspace/base-sdk/src/Exceptions/HttpException.php" />
+      <jump line="7" column="20" filename="$USER_HOME$/Workspace/base-sdk/src/Exceptions/InternalErrorException.php" />
+      <jump line="2" column="18" filename="$USER_HOME$/Workspace/base-sdk/src/Exceptions/InternalErrorException.php" />
+      <jump line="9" column="5" filename="$USER_HOME$/Workspace/base-sdk/src/Exceptions/ResponseException.php" />
+      <jump line="69" column="24" filename="$USER_HOME$/Workspace/base-sdk/src/Helpers/Common.php" />
+      <jump line="2" column="24" filename="$USER_HOME$/Workspace/base-sdk/src/Helpers/Common.php" />
+      <jump line="6" column="18" filename="$USER_HOME$/Workspace/base-sdk/src/Helpers/Common.php" />
+      <jump line="11" column="26" filename="$USER_HOME$/Workspace/base-sdk/src/Helpers/Common.php" />
+      <jump line="73" column="5" filename="$USER_HOME$/Workspace/base-sdk/src/Helpers/Common.php" />
+      <jump line="50" column="24" filename="$USER_HOME$/Workspace/base-sdk/src/Helpers/ConfigLoader.php" />
+      <jump line="2" column="24" filename="$USER_HOME$/Workspace/base-sdk/src/Helpers/ConfigLoader.php" />
+      <jump line="5" column="18" filename="$USER_HOME$/Workspace/base-sdk/src/Helpers/ConfigLoader.php" />
+      <jump line="10" column="26" filename="$USER_HOME$/Workspace/base-sdk/src/Helpers/ConfigLoader.php" />
+      <jump line="21" column="30" filename="$USER_HOME$/Workspace/base-sdk/src/Helpers/ConfigLoader.php" />
+      <jump line="22" column="30" filename="$USER_HOME$/Workspace/base-sdk/src/Helpers/ConfigLoader.php" />
+      <jump line="2" column="18" filename="$USER_HOME$/Workspace/base-sdk/src/ExceptionHandler.php" />
+      <jump line="5" column="18" filename="$USER_HOME$/Workspace/base-sdk/src/ExceptionHandler.php" />
+      <jump line="6" column="18" filename="$USER_HOME$/Workspace/base-sdk/src/ExceptionHandler.php" />
+      <jump line="7" column="18" filename="$USER_HOME$/Workspace/base-sdk/src/ExceptionHandler.php" />
+      <jump line="12" column="26" filename="$USER_HOME$/Workspace/base-sdk/src/ExceptionHandler.php" />
+      <jump line="78" column="30" filename="$USER_HOME$/Workspace/base-sdk/src/ExceptionHandler.php" />
+      <jump line="79" column="30" filename="$USER_HOME$/Workspace/base-sdk/src/ExceptionHandler.php" />
+      <jump line="80" column="30" filename="$USER_HOME$/Workspace/base-sdk/src/ExceptionHandler.php" />
+      <jump line="19" column="4" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="76" column="4" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="54" column="4" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="34" column="4" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="71" column="0" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="42" column="6" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="80" column="0" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="91" column="8" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="5" column="28" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="29" column="34" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="89" column="34" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="65" column="42" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="7" column="52" filename="$USER_HOME$/Workspace/geoip-api-sdk/examples/location.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/Workspace/geoip-api-sdk/examples/location.php" />
+      <jump line="14" column="19" filename="$USER_HOME$/Workspace/geoip-api-sdk/examples/location.php" />
+      <jump line="15" column="9" filename="$USER_HOME$/Workspace/geoip-api-sdk/examples/location.php" />
+      <jump line="21" column="19" filename="$USER_HOME$/Workspace/geoip-api-sdk/examples/location.php" />
+      <jump line="11" column="11" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="63" column="20" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="46" column="29" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="48" column="29" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="87" column="24" filename="$USER_HOME$/Workspace/geoip-api-sdk/src/Lookup.php" />
+      <jump line="10" column="14" filename="$USER_HOME$/Workspace/geoip-api-sdk/composer.json" />
+      <jump line="14" column="14" filename="$USER_HOME$/Workspace/geoip-api-sdk/composer.json" />
+      <jump line="15" column="0" filename="$USER_HOME$/Workspace/nitro/composer.json" />
+      <jump line="119" column="43" filename="$USER_HOME$/Workspace/nitro/src/Failable.php" />
+      <jump line="132" column="38" filename="$USER_HOME$/Workspace/nitro/src/Failable.php" />
+      <jump line="27" column="38" filename="$USER_HOME$/Workspace/nitro/src/Failable.php" />
+      <jump line="41" column="43" filename="$USER_HOME$/Workspace/nitro/src/Failable.php" />
+      <jump line="54" column="43" filename="$USER_HOME$/Workspace/nitro/src/Failable.php" />
+      <jump line="67" column="43" filename="$USER_HOME$/Workspace/nitro/src/Failable.php" />
+      <jump line="80" column="43" filename="$USER_HOME$/Workspace/nitro/src/Failable.php" />
+      <jump line="93" column="43" filename="$USER_HOME$/Workspace/nitro/src/Failable.php" />
+      <jump line="106" column="43" filename="$USER_HOME$/Workspace/nitro/src/Failable.php" />
+      <jump line="145" column="43" filename="$USER_HOME$/Workspace/nitro/src/Failable.php" />
+      <jump line="158" column="43" filename="$USER_HOME$/Workspace/nitro/src/Failable.php" />
+      <jump line="171" column="43" filename="$USER_HOME$/Workspace/nitro/src/Failable.php" />
+      <jump line="50" column="30" filename="$USER_HOME$/Workspace/nitro/src/Failable.php" />
+      <jump line="182" column="0" filename="$USER_HOME$/Workspace/nitro/src/Failable.php" />
+      <jump line="61" column="2" filename="$USER_HOME$/Workspace/nitro/composer.json" />
+      <jump line="48" column="2" filename="$USER_HOME$/Workspace/nitro/composer.json" />
+      <jump line="17" column="19" filename="$USER_HOME$/Workspace/nitro/composer.json" />
+      <jump line="45" column="47" filename="$USER_HOME$/Workspace/nitro/composer.json" />
+      <jump line="49" column="45" filename="$USER_HOME$/Workspace/nitro/composer.json" />
+      <jump line="25" column="7" filename="$USER_HOME$/Workspace/nitro/composer.json" />
+      <jump line="13" column="32" filename="$USER_HOME$/Workspace/nitro/src/Helpers/AppCache.php" />
+      <jump line="11" column="42" filename="$USER_HOME$/Workspace/nitro/src/Helpers/AppCache.php" />
+      <jump line="9" column="31" filename="$USER_HOME$/Workspace/nitro/src/Helpers/AppCache.php" />
+      <jump line="4" column="15" filename="$USER_HOME$/Workspace/nitro/src/Helpers/AppCache.php" />
+      <jump line="376" column="0" filename="$USER_HOME$/Workspace/ops-tool/src/Command/Nofity/MongoCollectionStats.php" />
+      <jump line="379" column="0" filename="$USER_HOME$/Workspace/ops-tool/src/Command/Nofity/MongoCollectionStats.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/ops-tool/src/Command/Nofity/MongoCollectionStats.php" />
+      <jump line="36" column="0" filename="$USER_HOME$/Workspace/ops-tool/src/Command/Nofity/MongoCollectionStats.php" />
+      <jump line="76" column="31" filename="$USER_HOME$/Workspace/ops-tool/src/Command/Nofity/MongoCollectionStats.php" />
+      <jump line="8" column="11" filename="$USER_HOME$/Workspace/extranet/client/app/account/login/login.component.html" />
+      <jump line="12" column="11" filename="$USER_HOME$/Workspace/extranet/client/app/account/login/login.component.ts" />
+      <jump line="42" column="0" filename="$USER_HOME$/Timdo/landing/bootstrap/app.php" />
+      <jump line="28" column="31" filename="$USER_HOME$/Timdo/landing/app/Http/Controllers/AuthController.php" />
+      <jump line="26" column="29" filename="$USER_HOME$/Timdo/landing/app/Http/Controllers/AuthController.php" />
+      <jump line="81" column="0" filename="$USER_HOME$/Timdo/myaccount-api/vendor/timdocom/nitro/src/Models/BaseMoloquent.php" />
+      <jump line="32" column="22" filename="$USER_HOME$/Timdo/landing/app/Models/Page.php" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>MYACCOUNT_API</text>
+      </register>
+      <register name="-" type="4">
+        <text>MYACCOUNT_API</text>
+      </register>
+      <register name="/" type="4">
+        <text>getMongo</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gXE1vbmdvREJcQ29sbGVjdGlvbgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0TW9uZ29DbGllbnQoKQogICAgewogICAgICAgIC8qKiBAdmFyIFxNb25nb0RCICRxdWVyeSAqLwogICAgICAgICRxdWVyeSAgICAgID0gREI6OmNvbm5lY3Rpb24oJHRoaXMtPmNvbm5lY3Rpb24pLT5nZXRNb25nb0RCKCk7CiAgICAgICAgJGNvbGxlY3Rpb24gPSAkcXVlcnktPnNlbGVjdENvbGxlY3Rpb24oJHRoaXMtPmNvbGxlY3Rpb24pOwoKICAgICAgICByZXR1cm4gJGNvbGxlY3Rpb247CiAgICB9</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICR0aGlzLT5nCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRNb25nb0NsaWVudCgpOiBcTW9uZ29Db2xsZWN0aW9uCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkcXVlcnkgPSBEQjo6Y29ubmVjdGlvbigkdGhpcy0+Y29ubmVjdGlvbiktPmdldE1vbmdvREIoKTsKCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBcTW9uZ28gICovCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBcTW9uZ29EQiAkcXVlcnkgKi8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gXE1vbmdvQ29sbGVjdGlvbgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHF1ZXJ5LT5zZWxlY3RDb2xsZWN0aW9uKCR0aGlzLT5jb2xsZWN0aW9uKTsK</text>
+      </register>
+      <register name="w" type="4">
+        <text>hh</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNvbGxlY3Rpb247Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>getMongo</last-search>
+      <last-offset />
+      <last-pattern>getMongo</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>Support</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxnZXRFbmRwb2ludFw+</entry>
+        <entry>getMultipleByIp</entry>
+        <entry>getSingleByIp</entry>
+        <entry encoding="base64">XDxodHRwc1w+</entry>
+        <entry>0sdk</entry>
+        <entry>sdk</entry>
+        <entry encoding="base64">XDxjYXVnaHRcPg==</entry>
+        <entry encoding="base64">XDxjYXRjaGVkXD4=</entry>
+        <entry>config-sdk&quot;,</entry>
+        <entry>-sdk</entry>
+        <entry>support</entry>
+        <entry>Support</entry>
+        <entry>no index</entry>
+        <entry>No</entry>
+        <entry>No index</entry>
+        <entry encoding="base64">XDxmb3JtR3JvdXBcPg==</entry>
+        <entry>setClassEmail</entry>
+        <entry>mongo</entry>
+        <entry>providers</entry>
+        <entry>getMongo</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>q!</entry>
+        <entry>tab global_users</entry>
+        <entry>ta</entry>
+        <entry>tab</entry>
+        <entry>tabn</entry>
+        <entry>e global_users.json</entry>
+        <entry>e .gitignore</entry>
+        <entry>e composer.json</entry>
+        <entry>elookup</entry>
+        <entry>e lookup</entry>
+        <entry>e Lookup</entry>
+        <entry>e src/lookup</entry>
+        <entry>e src/Lookup</entry>
+        <entry>e /src/lookup</entry>
+        <entry>x</entry>
+        <entry>e.</entry>
+        <entry>e</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift meta pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
